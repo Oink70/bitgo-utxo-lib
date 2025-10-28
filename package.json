@@ -60,7 +60,7 @@
     "mocha": "^5.2.0",
     "nyc": "^15.0.0",
     "proxyquire": "^1.4.0",
-    "sinon": "^1.12.2",
+    "sinon": "^21.0.0",
     "standard": "^17.1.2"
   },
   "license": "MIT",
