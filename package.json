@@ -49,7 +49,7 @@
     "safe-buffer": "^5.0.1",
     "typeforce": "git+https://github.com/michaeltout/typeforce",
     "varuint-bitcoin": "^1.0.4",
-    "wif": "^2.0.1"
+    "wif": "^5.0.0"
   },
   "devDependencies": {
     "bip39": "^2.3.0",
