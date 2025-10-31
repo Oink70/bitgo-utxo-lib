@@ -48,7 +48,7 @@
     "randombytes": "^2.0.1",
     "safe-buffer": "^5.0.1",
     "typeforce": "git+https://github.com/michaeltout/typeforce",
-    "varuint-bitcoin": "^1.0.4",
+    "varuint-bitcoin": "^2.0.0",
     "wif": "^2.0.1"
   },
   "devDependencies": {
